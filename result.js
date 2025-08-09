@@ -1,5 +1,7 @@
+//docs.google.com/document/d/1vVVdK72by0f9nnA2fIPxHQqMxadySbcsSXY-8Ft8l5k/preview?tab=t.0
+
 /** Problem -01 ( Divide the Asset ) */
-var area = 800;
+https: var area = 800;
 //write your code here
 
 var result = area / 2;
@@ -55,7 +57,7 @@ console.log(result);
 var experience = 30;
 var startingSalary = 45000;
 //write your code here
-for (var i = 1; i <= 30; i++) {
+for (var i = 1; i <= experience; i++) {
   startingSalary = startingSalary + startingSalary * 0.05;
 }
 console.log(startingSalary.toFixed(2));

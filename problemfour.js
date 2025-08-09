@@ -1,4 +1,5 @@
 /** Problem 04 - (Delete / Store) */
+
 var fileName = "pdfData.jpg";
 //write your code here
 
@@ -7,3 +8,4 @@ if (fileName.endsWith(".pdf") || fileName.endsWith(".docx") || fileName.startsWi
 } else {
   console.log("Delete");
 }
+
